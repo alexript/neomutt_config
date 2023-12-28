@@ -1,0 +1,3 @@
+[submodule "3rdparty/catppuccin"]
+	path = 3rdparty/catppuccin
+	url = https://github.com/catppuccin/neomutt.git
